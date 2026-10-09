@@ -15,7 +15,21 @@ Here you can check that claim with your own key.
 | [decide.py](decide.py) | Sends 5 customer messages and gets back one department each: refund, delivery, complaint or other |
 | [three_types.py](three_types.py) | One request that asks all three question types: yes or no, pick one, and a score |
 | [benchmark.py](benchmark.py) | Times the same messages on the Decisions API and on the Responses API, and prints the speedup |
+| [sample-output.txt](sample-output.txt) | Output from our real run on 9 Oct 2026, so you can see what to expect |
 | [SOURCES.md](SOURCES.md) | Every fact in the video with its source |
+
+## Our result (9 Oct 2026)
+
+Same question, "Is this message spam?", on 8 messages:
+
+| Way | Median time | Answer |
+|---|---|---|
+| Decisions API | **0.19 s** | YES or NO, all 8 right |
+| Chat, told to reply in one word | 7.8 s | YES or NO, all 8 right |
+| Chat, asked normally | 8.6 s | a 13 to 48 word paragraph |
+
+Normal chat was 1 to 3 s for the first messages and 8 to 10 s later in the run, so the speed-up
+ranged from about 5x to over 40x. Full output: [sample-output.txt](sample-output.txt).
 
 ## Run it
 

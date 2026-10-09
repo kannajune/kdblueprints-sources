@@ -1,0 +1,39 @@
+Our real run, 9 Oct 2026, from India, with our own OpenAI key (GPT-6 Luna, Decisions API public beta).
+Your numbers will be different. Speed depends on your network, your region and how busy the servers are.
+
+$ python spam_benchmark.py
+         Decisions |   Chat, one word |       Chat, normal | message
+   599 ms YES (0.99) |   1012 ms YES     |   2930 ms 32 words  | Congratulations! You won Rs 10 lakh. Cli
+   205 ms NO (0.06)  |    996 ms NO      |   2355 ms 24 words  | Hi, the meeting is moved to 4 pm tomorro
+   145 ms YES (0.99) |   1860 ms YES     |   2408 ms 48 words  | Your KYC will be blocked today. Update n
+   358 ms NO (0.05)  |   8950 ms NO      |   9876 ms 27 words  | Amma, I reached the station. Will call y
+   159 ms YES (0.99) |   7896 ms YES     |   8613 ms 39 words  | Earn Rs 5000 daily from home! No skills
+   226 ms NO (0.14)  |   8416 ms NO      |   8526 ms 31 words  | Your Swiggy order is out for delivery.
+   175 ms YES (0.99) |   7993 ms YES     |   9053 ms 29 words  | Dear customer, your account is suspended
+   177 ms NO (0.00)  |   7751 ms NO      |   9355 ms 13 words  | Can you send me the notes from yesterday
+
+Median Decisions          191 ms
+Median Chat, one word    7823 ms
+Median Chat, normal      8570 ms
+Decisions vs chat, normal:   44.9x faster
+Decisions vs chat, one word: 41.0x faster
+
+$ python decide.py
+   214 ms  refund     1.00 | I was charged twice for my order.
+   132 ms  delivery   1.00 | My order was supposed to arrive yesterday and it is still not here.
+   125 ms  complaint  1.00 | The dosa was cold and the delivery person was rude.
+   166 ms  other      0.97 | Can I change the phone number on my account?
+   252 ms  delivery   0.99 | The parcel was delivered to my neighbour's house.
+
+$ python three_types.py
+is_bug   probability 0.93
+team     payments (confidence 1.00)
+urgency  score 2.00 of 2 (confidence 1.00)
+
+What we noticed:
+- All 8 spam answers were right, in all three ways.
+- The Decisions API answered in about 0.15 to 0.6 seconds, every time.
+- Normal chat took 1 to 3 seconds for the first three messages, then 8 to 10 seconds for the rest
+  (the servers got slower during our run). So the speed-up was about 5x at chat's best and over 40x at its worst.
+- OpenAI says "up to 10x faster". Our run agrees that the Decisions API is much faster;
+  how much depends on how busy normal chat is at that moment.
