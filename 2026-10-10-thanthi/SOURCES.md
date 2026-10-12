@@ -1,6 +1,6 @@
 # Thanthi (telegram) Part 1: sources and fact check
 
-Video: KD Blueprints Short, October 2026 (YouTube link: add after upload).
+Video: KD Blueprints Short, October 2026 (Tamil: [Part 1](https://www.youtube.com/shorts/-qxwS2-AR0I), [Part 2](https://www.youtube.com/shorts/4H8rbOImoWE)).
 
 Facts checked on 10 Oct 2026.
 

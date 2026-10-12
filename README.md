@@ -9,9 +9,9 @@ YouTube: [@kdblueprints](https://www.youtube.com/@kdblueprints)
 | Date | Video | Watch | Try it | Sources |
 |---|---|---|---|---|
 | 12 Oct 2026 | STD booth Part 1 | (link after upload) | (sources only) | [Sources](2026-10-12-std-booth/SOURCES.md) |
-| 10 Oct 2026 | Thanthi Part 1 | (link after upload) | (sources only) | [Sources](2026-10-10-thanthi/SOURCES.md) |
-| 9 Oct 2026 | AI agents explained | [Watch](https://www.youtube.com/shorts/LEdyqvLolW4) | (sources only) | [Sources](2026-10-09-ai-agents/SOURCES.md) |
-| 8 Oct 2026 | OpenAI Decisions API, explained | [Watch](https://www.youtube.com/shorts/xZMHt4CwCm4) | [Code and output](2026-10-08-decisions-api/) | [Sources](2026-10-08-decisions-api/SOURCES.md) |
+| 10 Oct 2026 | Thanthi (Tamil): [Part 1](https://www.youtube.com/shorts/-qxwS2-AR0I), [Part 2](https://www.youtube.com/shorts/4H8rbOImoWE) | [Watch](https://www.youtube.com/shorts/-qxwS2-AR0I) | (sources only) | [Sources](2026-10-10-thanthi/SOURCES.md) |
+| 9 Oct 2026 | AI agents explained | (link after upload) | (sources only) | [Sources](2026-10-09-ai-agents/SOURCES.md) |
+| 8 Oct 2026 | OpenAI Decisions API, explained | [Watch](https://www.youtube.com/shorts/LEdyqvLolW4) | [Code and output](2026-10-08-decisions-api/) | [Sources](2026-10-08-decisions-api/SOURCES.md) |
 
 ## How we check facts
 

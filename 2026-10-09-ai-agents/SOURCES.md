@@ -1,6 +1,6 @@
 # AI agents explained: sources and fact check
 
-Video: KD Blueprints Short, October 2026 ([watch on YouTube](https://www.youtube.com/shorts/LEdyqvLolW4)).
+Video: KD Blueprints Short, October 2026 (YouTube link: add after upload).
 
 Every claim in the video, with where it comes from. Facts checked on 9 Oct 2026.
 

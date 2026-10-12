@@ -1,6 +1,6 @@
 # OpenAI Decisions API, explained: sources and fact check
 
-Video: KD Blueprints Short, 8 Oct 2026 ([watch on YouTube](https://www.youtube.com/shorts/xZMHt4CwCm4)).
+Video: KD Blueprints Short, 8 Oct 2026 ([watch on YouTube](https://www.youtube.com/shorts/LEdyqvLolW4)).
 
 Every claim in the video, with where it comes from. Facts checked on 8 Oct 2026.
 
