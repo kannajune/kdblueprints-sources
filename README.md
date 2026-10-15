@@ -2,13 +2,15 @@
 
 Every fact in a KD Blueprints video, with the source it comes from, and where possible a small working example so you can check it yourself. One folder per video, newest first.
 
-YouTube: [@kdblueprints](https://www.youtube.com/@kdblueprints)
+YouTube: [@kdblueprints](https://www.youtube.com/@kdblueprints) (Tamil) and KD Tech Explained (English, AI and tech news)
 
 ## Videos
 
 | Date | Video | Watch | Try it | Sources |
 |---|---|---|---|---|
-| 12 Oct 2026 | STD booth Part 1 | (link after upload) | (sources only) | [Sources](2026-10-12-std-booth/SOURCES.md) |
+| 15 Oct 2026 | Why Anthropic replaced Git: Scion explained (KD Tech Explained) | (link after upload) | (sources only) | [Sources](2026-10-15-scion/SOURCES.md) |
+| 14 Oct 2026 | Rooftop TV antenna (Tamil, 2 parts) | (link after upload) | (sources only) | [Sources](2026-10-14-antenna/SOURCES.md) |
+| 12 Oct 2026 | STD booth (Tamil): [Part 1](https://www.youtube.com/shorts/BdKTHGofNEo), [Part 2](https://www.youtube.com/shorts/0gZN6E0KrXk) | [Watch](https://www.youtube.com/shorts/BdKTHGofNEo) | (sources only) | [Sources](2026-10-12-std-booth/SOURCES.md) |
 | 10 Oct 2026 | Thanthi (Tamil): [Part 1](https://www.youtube.com/shorts/-qxwS2-AR0I), [Part 2](https://www.youtube.com/shorts/4H8rbOImoWE) | [Watch](https://www.youtube.com/shorts/-qxwS2-AR0I) | (sources only) | [Sources](2026-10-10-thanthi/SOURCES.md) |
 | 9 Oct 2026 | AI agents explained | (link after upload) | (sources only) | [Sources](2026-10-09-ai-agents/SOURCES.md) |
 | 8 Oct 2026 | OpenAI Decisions API, explained | [Watch](https://www.youtube.com/shorts/LEdyqvLolW4) | [Code and output](2026-10-08-decisions-api/) | [Sources](2026-10-08-decisions-api/SOURCES.md) |
