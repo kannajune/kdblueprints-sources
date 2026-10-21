@@ -8,6 +8,7 @@ YouTube: [@kdblueprints](https://www.youtube.com/@kdblueprints) (Tamil) and KD T
 
 | Date | Video | Watch | Try it | Sources |
 |---|---|---|---|---|
+| 21 Oct 2026 | REA: the AI that can open any app (KD Tech Explained) | (link after upload) | (sources only) | [Sources](2026-10-21-rea/SOURCES.md) |
 | 15 Oct 2026 | Why Anthropic replaced Git: Scion explained (KD Tech Explained) | (link after upload) | (sources only) | [Sources](2026-10-15-scion/SOURCES.md) |
 | 14 Oct 2026 | Rooftop TV antenna (Tamil, 2 parts) | (link after upload) | (sources only) | [Sources](2026-10-14-antenna/SOURCES.md) |
 | 12 Oct 2026 | STD booth (Tamil): [Part 1](https://www.youtube.com/shorts/BdKTHGofNEo), [Part 2](https://www.youtube.com/shorts/0gZN6E0KrXk) | [Watch](https://www.youtube.com/shorts/BdKTHGofNEo) | (sources only) | [Sources](2026-10-12-std-booth/SOURCES.md) |
